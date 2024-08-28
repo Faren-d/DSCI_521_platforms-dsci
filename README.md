@@ -8,7 +8,7 @@ __Slack Channel__: Your corresponding cohort's `521_platforms-dsci` channel.
 
 ## Class Meetings
 
-This course occurs during __Block 1__ in the 2023/24 school year.
+This course occurs during __Block 1__ in the 2024/25 school year.
 
 __Lectures__:
 
