@@ -4,7 +4,7 @@
 How to install, maintain, and use the data scientific software "stack".
 The Unix operating system, integrated development environments, and problem solving strategies.
 
-__Slack Channel__: [#521_platforms-dsci](https://ubc-mds.slack.com/app_redirect?channel=521_platforms-dsci)
+__Slack Channel__: Your corresponding cohort's `521_platforms-dsci` channel.
 
 ## Class Meetings
 
