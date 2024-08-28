@@ -38,7 +38,7 @@ At your service!
 ### Cohort 1
 
 | Position                 | Name            | Slack Handle            |
-|-:-:----------------------|-:-:-------------|-:-:---------------------|
+|--------------------------|-----------------|-------------------------|
 | Lecture & Lab Instructor | Daniel Chen     | `@Daniel (Instructor)`  |
 | Teaching Assistant       | Tony Fong       | `@Tony Fong (TA)`       |
 | Teaching Assistant       | Julian Becerra  | `@Julian Becerra (TA)`  |
@@ -48,7 +48,7 @@ At your service!
 ### Cohort 2
 
 | Position                 | Name                | Slack Handle             |
-|-:-:----------------------|-:-:-----------------|-:-:----------------------|
+|--------------------------|---------------------|--------------------------|
 | Lecture & Lab Instructor | Andy Tai            | `@andy (Instructor)`     |
 | Teaching Assistant       | Abdul Muntakim Rafi | `@Rafi`                  |
 | Teaching Assistant       | Ali Balapour        | `@Ali Balapour (TA)`     |
