@@ -69,8 +69,8 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 | iClicker   | 2%     |                     | iClicker and Canvas  |
 | Policies   | 1%     | 2024-09-04 23:59 PT | Canvas               |
 | Setup      | 1%     | 2024-09-04 23:59 PT | Canvas               |
-| Lab 0a     | 2%     | 2024-09-05 18:00 PT | Gradescope           |
-| Lab 0b     | 2%     | 2024-09-05 18:00 PT | Gradescope           |
+| Lab 0a     | 1%     | 2024-09-05 18:00 PT | Gradescope           |
+| Lab 0b     | 1%     | 2024-09-05 18:00 PT | Gradescope           |
 | Lab 1      | 11%    | 2024-09-07 18:00 PT | Github & Gradescope  |
 | Lab 2      | 11%    | 2024-09-14 18:00 PT | Github & Gradescope  |
 | Quiz 1     | 25%    | Week of 2024-09-17  | ICICS Testing Center |
