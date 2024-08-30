@@ -1,0 +1,43 @@
+  501  whoami
+  502  pwd
+  503  ls
+  504  ls -F
+  505  ls -a
+  506  pwd
+  507  cd Desktop/
+  508  pwd
+  509  ls
+  510  pwd
+  511  mkdir 521_folder
+  512  mkdir 521 Folder
+  513  ls-F
+  514  mkdir "521 with a space"
+  515  rm 521
+  516  rm -r  521
+  517  ls
+  518  mv Folder/ 521_folder/
+  519  mv "521 with a space" 521_with_a_under
+  520  pwd
+  521  cd 521_folder/
+  522  pwd
+  523  cd /
+  524  ls
+  525  cd home
+  526  ls
+  527  cd dan
+  528  pwd
+  529  cd /home/dan/
+  530  cd asdf
+  531  pwd
+  532  cd /home/dan/Desktop/521_folder/
+  533  ls -a
+  534  cd ../..
+  535  pwd
+  536  cd -
+  537  pwd
+  538  cd -
+  539  pwd
+  540  cd -
+  541  code newfile.txt
+  542  code newfile.txt 
+  543  history
