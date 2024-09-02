@@ -12,17 +12,17 @@ This course occurs during __Block 1__ in the 2024/25 school year.
 
 __Lectures__:
 
-- Cohort 01: Mondays and Wednesdays, 9:30 - 10:50 AM PT
-- Cohort 02: Tuesday and Thursday, 9:30 - 10:50 AM PT
+- Section 001 (Classifiers) : Mondays and Wednesdays, 9:30 - 10:50 AM PT
+- Section 002 (Regressors) : Tuesday and Thursday, 9:30 - 10:50 AM PT
 
 __Labs__:
 
-- Cohort 1
-    - Section 1: Monday, 14:00-15:50
-    - Section 2: Tuesday, 14:00-15:50
-- Cohort 2
-    - Section 3: Wednesday, 14:00-15:50
-    - Section 4: Thursday, 14:00-15:50
+- Section 001 (Classifiers)
+    - Group 1: Monday, 14:00-15:50
+    - Group 2: Tuesday, 14:00-15:50
+- Section 002 (Regressors)
+    - Group 3: Wednesday, 14:00-15:50
+    - Group 4: Thursday, 14:00-15:50
 
 
 Remember to check the [MDS calendar](https://ubc-mds.github.io/calendar/) for the office hours.
@@ -35,7 +35,7 @@ Remember to check the [MDS calendar](https://ubc-mds.github.io/calendar/) for th
 
 At your service!
 
-### Cohort 1
+### Section 001 (Classifiers)
 
 | Position                 | Name            | Slack Handle            |
 |--------------------------|-----------------|-------------------------|
@@ -45,7 +45,7 @@ At your service!
 | Teaching Assistant       | Mayur Mallya    | `@Mayur (TA)`           |
 | Teaching Assistant       | Atabak Alishiri | `@Atabak Alishiri (TA)` |
 
-### Cohort 2
+### Section 002 (Regressors)
 
 | Position                 | Name                | Slack Handle             |
 |--------------------------|---------------------|--------------------------|
