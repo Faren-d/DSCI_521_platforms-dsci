@@ -18,11 +18,11 @@ __Lectures__:
 __Labs__:
 
 - Section 001 (Classifiers)
-    - Group 1: Monday, 14:00-15:50
-    - Group 2: Tuesday, 14:00-15:50
+    - LAB L01: Monday, 14:00-15:50
+    - LAB L02: Tuesday, 14:00-15:50
 - Section 002 (Regressors)
-    - Group 3: Wednesday, 14:00-15:50
-    - Group 4: Thursday, 14:00-15:50
+    - LAB L03: Wednesday, 14:00-15:50
+    - LAB L04: Thursday, 14:00-15:50
 
 
 Remember to check the [MDS calendar](https://ubc-mds.github.io/calendar/) for the office hours.
@@ -57,7 +57,24 @@ At your service!
 
 ## Office Hours
 
-Please check the MDS calendar.
+Please check the MDS calendar. Office hours are subject to change, so please regularly check the MDS calendar for updates.
+
+### Section 001 (Classifiers)
+
+- **@Atabak Alishiri:** Mon 1 - 2 PM - ICCS X141
+- **@Julian Becerra (TA):** Tue 1 - 2 PM - ICCS X141
+- **@Mayur (TA):** Fri 10 - 11 AM - Hybrid in ICCS X141 and Zoom
+- **@Tony Fong (TA):** Fri 1 - 2 PM - Hybrid in ICCS X141 and Zoom
+
+*Note: Office hours on Sept 13th are canceled due to the EDI Workshop.*
+
+### Section 002 (Regressors)
+
+- **@Andy (Instructor):** Wed 1 - 2 PM - ESB 3161
+- **@Rafi (TA):** Tue 5 - 6 PM - ICCS X141
+- **@Stefanie Todesco (TA):** Wed 4 - 5 PM - ESB 1041 - TA Room
+- **@Ali Balapour (TA):** Thu 4 - 5 PM - ICCS X141
+- **@Jordan Yu (TA):** Fri 9 - 10 AM - Hybrid in ICCS X141 and Zoom
 
 ## Assessments
 
