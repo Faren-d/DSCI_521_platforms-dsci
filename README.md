@@ -57,7 +57,7 @@ At your service!
 
 ## Office Hours
 
-Please check the MDS calendar. Office hours are subject to change, so please regularly check the MDS calendar for updates.
+Please check the [MDS calendar](https://ubc-mds.github.io/calendar/). Office hours are subject to change, so please regularly check the MDS calendar for updates.
 
 ### Section 001 (Classifiers)
 
@@ -102,15 +102,15 @@ Tip: Use the lecture learning objectives as beacons when studying for your quizz
 
 ## Course Learning Outcomes
 
-See the course lecture book
+See the [course lecture book](https://ubc-mds.github.io/DSCI_521_platforms-dsci_book/).
 
 ## Syllabus
 
-See the course lecture book
+See the [course lecture book](https://ubc-mds.github.io/DSCI_521_platforms-dsci_book/).
 
 ## Attributions
 
-See the course lecture book
+See the [course lecture book](https://ubc-mds.github.io/DSCI_521_platforms-dsci_book/).
 
 ## License
 
