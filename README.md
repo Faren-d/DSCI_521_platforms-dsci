@@ -72,7 +72,7 @@ Please check the [MDS calendar](https://ubc-mds.github.io/calendar/). Office hou
 
 - **@Andy (Instructor):** Wed 1 - 2 PM - ESB 3161
 - **@Rafi (TA):** Tue 5 - 6 PM - ICCS X141
-- **@Stefanie Todesco (TA):** Wed 4 - 5 PM - ESB 1041 - TA Room
+- **@Stefanie Todesco (TA):** Wed 4 - 5 PM - ORCH 1001
 - **@Ali Balapour (TA):** Thu 4 - 5 PM - ICCS X141
 - **@Jordan Yu (TA):** Fri 9 - 10 AM - Hybrid in ICCS X141 and Zoom
 
