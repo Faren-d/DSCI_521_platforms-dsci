@@ -1,0 +1,57 @@
+  501  ssh-keygen -t ed25519 -C "chendaniely@gmail.com"
+  502  code .ssh/config 
+  503  pbcopy < ~/.ssh/id_ed25519.pub
+  504  cat .ssh/id_ed25519.pub 
+  505  cd Desktop/
+  506  pwd
+  507  ls
+  508  git clone git@github.com:chendaniely/2024-09-04-git.git
+  509  code ~/.ssh/config 
+  510  git clone git@github.com:chendaniely/2024-09-04-git.git
+  511  ls
+  512  cd 2024-09-04-git/
+  513  ls
+  514  ls -a
+  515  ls ~/.ssh
+  516  cat ~/.ssh/config 
+  517  ls
+  518  ls -a
+  519  cd ..
+  520  ls -alh
+  521  cd 2024-09-04-git/
+  522  ls -a
+  523  cd ~/git/
+  524  pwd
+  525  ls
+  526  cd -
+  527  ls
+  528  code README.md
+  529  ls
+  530  ls
+  531  code README.md
+  532  git status
+  533  cd ..
+  534  git status
+  535  cd -
+  536  git status
+  537  git add README.md 
+  538  git status
+  539  git commit
+  540  git status
+  541  git status
+  542  git status
+  543  git status
+  544  code README.md 
+  545  git status
+  546  git add README.md 
+  547  git status
+  548  git commit -m "define status, add, and commit"
+  549  git status
+  550  git log
+  551  git log
+  552  git push origin main
+  553  cat README.md 
+  554  git pull origin main
+  555  cat README.md 
+  556  ls -a
+  557  git status
