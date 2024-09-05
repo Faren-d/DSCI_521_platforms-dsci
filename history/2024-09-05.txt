@@ -1,0 +1,35 @@
+1  ssh-keygen -t ed25519 -C "andy.tai@stat.ubc.ca"
+2  ls -a
+3  ssh -T git@github.com
+4  git clone git@github.com:andytai7/521test.git
+5  cd 521folder
+6  ls
+7  cd 521test
+8  code Read.md
+9  git status
+10 git add Read.md
+11 git status
+12 git status
+13 ls
+14 cd 521test
+15 code Readme.md
+16 git status
+17 git add Readme.md
+18 git status
+19 git rm --cached Read.md
+20 git status
+21 git commit
+22 git status
+23 git commit -m "edited readme.md"
+24 git add Readme.md
+25 git commit -m "edited readme.md
+26 cd 521test
+27 git status
+28 git commit -m "edited readme.md"
+29 git push origin main
+30 git status
+31 git pull
+32 git log
+33 git remote -v
+34 ssh -T git@github.com
+35 history
