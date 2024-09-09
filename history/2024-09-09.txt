@@ -1,0 +1,131 @@
+  501  cd git/
+  502  git status
+  503  mkdir 2024-09-09-git
+  504  ls
+  505  cd 2024-09-09-git/
+  506  git status
+  507  ls -a
+  508  git init
+  509  la -a
+  510  ls -a
+  511  git status
+  512  code README.md
+  513  git status
+  514  git add README.md 
+  515  git status
+  516  git commit -m "add README.md"
+  517  git status
+  518  git push origin mai
+  519  git push origin main
+  520  git status
+  521  git remote add origin git@github.com:chendaniely/2024-09-09-git.git
+  522  git remote -v
+  523  git push origin main
+  524  code README.md 
+  525  git status
+  526  git add README.md 
+  527  git commit -m "define remote add"
+  528  git push origin main
+  529  git log
+  530  git status
+  531  code README.md 
+  532  git diff README.md 
+  533  git status
+  534  git restore README.md 
+  535  git status
+  536  code README.md 
+  537  code README.md 
+  538  git diff README.md 
+  539  git add README.md 
+  540  git status
+  541  git diff README.md 
+  542  git diff --staged README.md 
+  543  git status
+  544  git restore --staged README.md 
+  545  git status
+  546  git restore README.md 
+  547  git status
+  548  git log
+  549  git restore --source 05364184b201e4127ca8e57ca0675e68a3b9cd81 README.md 
+  550  git status
+  551  git add README.md 
+  552  git commit -m "restore to first commit"
+  553  git push origin main
+  554  git log
+  555  git restore --source 8876df6f29bab1f73ec1187c95427dfa877f3c2d README.md 
+  556  git status
+  557  git add README.md 
+  558  git commit -m "define restore and log"
+  559  git push origin main
+  560  ls
+  561  rm README.md 
+  562  git status
+  563  git restore README.md
+  564  git status
+  565  ls -a
+  566  git log 
+  567  git log 
+  568  git log --oneline
+  569  cat README.md 
+  570  git pull origin main
+  571  cat README.md 
+  572  code README.md 
+  573  git status
+  574  git add README.md 
+  575  git commit -m "edit local top"
+  576  git status
+  577  git push origin main main
+  578  git push origin main
+  579  git pull origin main
+  580  git config pull.rebase false
+  581  git pull origin main
+  582  cat README.md 
+  583  git status
+  584  git push origin mian
+  585  git push origin main
+  586  nano README.md 
+  587  code README.md 
+  588  git status
+  589  git add README.md 
+  590  git commit -m "edit the first line locally"
+  591  git status
+  592  git push origin main
+  593  git pull origin main
+  594  code README.md 
+  595  cat README.md 
+  596  git status
+  597  git add README.md 
+  598  git status
+  599  git comit -m "fix conflicts"
+  600  git commit -m "fix conflicts"
+  601  git push origin main
+  602  pyenv shell mds
+  603  jupyter lab
+  604  git status
+  605  cat example.ipynb 
+  606  jupyter lab
+  607  cat example.ipynb 
+  608  git status
+  609  ls -a
+  610  code .gitignore
+  611  ls -a
+  612  git status
+  613  git add .
+  614  git status
+  615  git commit -m "example notebook and ignore file"
+  616  git push origin main
+  617  ls
+  618  code .gitignore 
+  619  git status
+  620  git add .gitignore 
+  621  git commit -m "ignore pdf and images"
+  622  git status
+  623  touch asdlfjsadlbfjadsf.pdf
+  624  ls
+  625  git status
+  626  mkdir img
+  627  touch img/asldfkjladjksf.png
+  628  git status
+  629  l
+  630  ls *
+  631  history
