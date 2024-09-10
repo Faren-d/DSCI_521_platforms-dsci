@@ -1,0 +1,325 @@
+1    mkdir test_2024_09_09-MDS
+2    cd test_2024_09_09-MDS
+3    code readme.txt
+4    git init
+5    git status
+6    git add readme.txt
+7    git remote add origin git@github.com:andytai7/test_2024_09_09-MDS.git
+8    git push -u origin main
+9    git remote -v
+10   git push origin main
+11   git status
+12   git commit -m "readme me add"
+13   git push -u origin main
+14   code readme.md
+15   git status
+16   git add -p
+17   git commit -m "adding git remote definition" 
+18   git push 
+19   git log
+20   git status
+21   git status
+22   code readme.txt
+23   git diff Readme.txt
+24   git diff readme.txt
+25   git status
+26   git restore readme.txt
+27   git status
+28   git commit -m "hello" 
+29   git diff --staged
+30   git diff --stages readme.txt
+31   git diff --staged readme.txt
+32   git status
+33   git commit -m "readme change"
+34   git add -p
+35   git diff --staged readme.txt
+36   git status
+37   git restore --staged readme.txt
+38   git status
+39   git restore readme.txt
+40   git log
+41   git restore --source e74536e7ea4f55cb6da4fd69dad9213ca1d520ec
+42   git restore --source e74536e7ea4f55cb6da4fd69dad9213ca1d520ec
+43   git restore --source e74536e7ea4f55cb6da4fd69dad9213ca1d520ec readme.txt
+44   git status
+45   git add -p
+46   git commit -m "version 1"
+47   git push 
+48   git status
+49   git add -p
+50   git commit -m "commands"
+51   git push
+52   rm readme.txt
+53   git status
+54   git restore readme.txt
+55   git log
+56   git log --oneline
+57   git add -p
+58   git commit -m "asdf
+59   q
+60   "
+61   git pus
+62   git push
+63   git pull
+64   git add Readme.md
+65   git add readme.txt
+66   git commit -m "merge conflict"
+67   git status
+68   git push origin main
+69   git pull origin main 
+70   git status
+71   git config pull.rebase false
+72   git pull origin main
+73   git status
+74   git push origin main
+75   git push
+76   git status
+77   git status
+78   git pull
+79   git add/rm readme.txt
+80   git add readme.txt
+81   git status
+82   git add -p
+83   git commit -m "changes"
+84   git push
+85   git status
+86   git status
+87   git add readme.txt
+88   git commit -m" changes on the top"
+89   git status
+90   git status
+91   git pull
+92   git push 
+93   git status
+94   git add -p
+95   git commit -m "changes"
+96   git push
+97   git pull origin main
+98   git status 
+99   git add -p
+100  git merge
+101  git add readme.txt
+102  git status
+103  git commit -m "readme"
+104  git push 
+105  jupyter lab
+106  cd Jupyter_notebook
+107  git init
+108  git status
+109  cd jupyter_lab
+110  ls
+111  cd Jupyter_notebook
+112  git status
+113  code open .ipynb_checkpoints/
+114  code .gitignore
+115  git status
+116  git status
+117  git add .
+118  git commit -m "examples" 
+119  Git push 
+120  exit
+121  jupyter lab
+122  exit
+123  history
+124  cd test_2024_09_09-MDS/
+125  cd test_2024_09_09-MDS/
+126  git status
+127  git status
+128  git status
+129  git tstaus
+130  git status
+131  hisstory
+132  history
+133  code .gitignore
+134  git status
+135  git status
+136  git push
+137  git status
+138  git history
+139  history
+140  jupyter lab
+141  ls
+142  cd testdsci100
+143  ls
+144  cd'
+145  cd
+146  a
+147  "
+148  cd
+149  ls
+150  cd desktop
+151  cd
+152  git pull
+153  git status
+154  git add -p
+155  git commit -m "minor chnages to lab 1 and 2"
+156  git push
+157  jupyter lab
+158  jupyter lab
+159  jupyter lab
+160  cd testdsci100
+161  git status
+162  git add .
+163  git commit -m "Andy's Bio"
+164  Git push
+165  git push
+166  git push origina main
+167  git push origin main
+168  git pull origin main
+169  git config pull.rebase false
+170  git pull origin main
+171  git pull origin main
+172  git push origin main
+173  ls
+174  cd /Users/andytai/Library/Mobile\ Documents/com\~apple\~CloudDocs/Documents/github/mds 
+175  git clone git@github.com:andytai7/-regression-cookbook-toydataset.git
+176  git status
+177  cd regression-cookbook-toydataset/
+178  git add .
+179  git commit -m "dataset"
+180  git push
+181  git add -p
+182  git commit -m "added gitignore"
+183  git push
+184  jupyter lab
+185  ls
+186  cd testdsci100
+187  quarto preview "/Users/andytai/Library/Mobile Documents/com~apple~CloudDocs/Documents/github/mds/regression-cookbook/index.qmd" --no-browser --no-watch-inputs
+188  pwd
+189  ls
+190  cd testdsci100
+191  git pull
+192  jupyter lab
+193  jupyter lab
+194  git status
+195  git stash
+196  git status
+197  git pull origin main
+198  git stash pop
+199  git push 
+200  git add -p
+201  git add -p
+202  git add -p
+203  git merge
+204  git add Readme.md
+205  git commit -m "changes synced"
+206  git push
+207  git add -p
+208  git commit -m "local"
+209  git push
+210  git pull origin main
+211  git add .
+212  git add Readme.md
+213  git commit -m "change"
+214  git push
+215  git status
+216  git add Readme.md
+217  git commit -m "commits"
+218  git pus
+219  git push
+220  git pull origin main
+221  git config pull.rebase = true
+222  git pull
+223  git pull origin main
+224  git add .
+225  git commit -m "hello"
+226  git push
+227  git add .
+228  git commit -m "config"
+229  git push
+230  git pull
+231  git config pull.rebase true
+232  git pull --rebase
+233  ls
+234  cd testdsci100
+235  pwd
+236  jupyter lab
+237  ls
+238  mkdir 2024_09_10-git
+239  cd 2024_09_10-git/
+240  git init
+241  ls -a
+242  code README.md
+243  git add README.md
+244  git commit -m "adding readme.md"
+245  git status
+246  git push origin mian 
+247  git push origin main 
+248  git remote add origin git@github.com:andytai7/2024_09_10-git.git
+249  git remote -v
+250  git branch -M main
+251  git branch -M main
+252  git push origin main
+253  code README.md
+254  git status
+255  git diff README.md
+256  git restore README.md
+257  code README.md
+258  git status
+259  git add README.md
+260  git diff README.md
+261  git diff --staged README.md
+262  git status
+263  git restore --staged README.md
+264  git status
+265  git status
+266  code README>md
+267  code README.md
+268  git add -p
+269  git commit -m "git commands"
+270  git push
+271  git push origin main
+272  git log 
+273  git log --oneline 
+274  git restore --source a3f87dc6284f7d364967c984503ea068c34ce298 README.md
+275  git pull origin main
+276  git status
+277  git restore README.md
+278  code README.md
+279  git status
+280  git add -p
+281  git commit -m "local change"
+282  git diff --staged README.md
+283  git push 
+284  git push origin main
+285  git pull 
+286  git status
+287  git push origin main 
+288  git pull origin main 
+289  git config pull.rebase false
+290  git pull origin main
+291  git status
+292  git status
+293  git add -p
+294  git add . 
+295  git commit -m "local + remote changes"
+296  git push 
+297  git push origin main 
+298  git status
+299  git add README.md
+300  git commit -m "local change"
+301  git push origin main 
+302  git pull origin main 
+303  git status
+304  git add READEM.md
+305  git add README.md
+306  git commit -m "commit changes"
+307  git push
+308  git push origin main
+309  git status
+310  git stash 
+311  git status
+312  git pull 
+313  git pull origin main 
+314  git stash pop
+315  git status
+316  git add README.md
+317  git commit -m "changes 2"
+318  git push origin main 
+319  ls
+320  cd 2024_09_10-git/
+321  ls -a
+322  git status
+323  code .gitignore
+324  git status
+325  history 
