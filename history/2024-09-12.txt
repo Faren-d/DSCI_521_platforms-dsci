@@ -1,0 +1,55 @@
+1   cd /Users/andytai/Library/Mobile\ Documents/com\~apple\~CloudDocs/Documents/github/mds 
+2   git clone git@github.com:andytai7/DSCI521_website-test1.git
+3   git status
+4   ls
+5   cd DSCI521_website-test1
+6   git status
+7   which quarto
+8   which python 
+9   which jupyter 
+10  quarto --version
+11  jupyter --version 
+12  quarto --help
+13  git status
+14  quarto create project DSCI521_website-test1
+15  git status
+16  quarto preview 
+17  git status
+18  git add .
+19  git commit -m "website version 1"
+20  git push 
+21  quarto preview "/Users/andytai/Library/Mobile Documents/com~apple~CloudDocs/Documents/github/mds/DSCI521_website-test1/about.qmd" --no-browser --no-watch-inputs
+22  quarto render
+23  git status
+24  git add .
+25  git commit -m "website docs folder"
+26  git push
+27  quarto preview "/Users/andytai/Library/Mobile Documents/com~apple~CloudDocs/Documents/github/mds/DSCI521_website-test1/about.qmd" --no-browser --no-watch-inputs
+28  git status
+29  git add .
+30  git commit -m "change to just using the docs folder"
+31  git push
+32  quarto render
+33  git status
+34  git add .
+35  git commit -m "changes"
+36  git push
+37  quarto redner
+38  quarto render
+39  git status
+40  git add .
+41  git commit -m "change back to default render"
+42  git push 
+43  quarto publish
+44  quarto preview "/Users/andytai/Library/Mobile Documents/com~apple~CloudDocs/Documents/github/mds/DSCI521_website-test1/about.qmd" --no-browser --no-watch-inputs
+45  git status
+46  git add .
+47  git commit -m "diagram changes and additional information"
+48  git push
+49  quarto publish
+50  quarto preview "/Users/andytai/Library/Mobile Documents/com~apple~CloudDocs/Documents/github/mds/DSCI521_website-test1/about.qmd" --no-browser --no-watch-inputs
+51  git add .
+52  git commit -m "changes"
+53  git push
+54  quarto publish
+55  history
